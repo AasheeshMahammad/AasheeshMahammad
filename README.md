@@ -13,6 +13,9 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://aasheeshmahammad.github.io"><img src="https://img.shields.io/badge/Portfolio-aasheeshmahammad.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aasheesh-mahammad"><img src="https://img.shields.io/badge/LinkedIn-Aasheesh%20Mahammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Aasheesh_Mahammad/"><img src="https://img.shields.io/badge/LeetCode-Aasheesh__Mahammad-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <br/>
   <a href="https://github.com/AasheeshMahammad?tab=followers"><img src="https://img.shields.io/github/followers/AasheeshMahammad?label=Followers&style=for-the-badge&logo=github&color=8b5cf6" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=AasheeshMahammad&label=Profile%20views&color=06b6d4&style=for-the-badge" alt="Profile views" />
 </p>
@@ -68,6 +71,16 @@ class Aasheesh:
 
 ---
 
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/Aasheesh_Mahammad/">
+    <img src="https://leetcard.jacoblin.cool/Aasheesh_Mahammad?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
+  </a>
+</p>
+
+---
+
 ## 🐍 Contribution snake
 
 <p align="center">
@@ -84,6 +97,8 @@ class Aasheesh:
 
 <p align="center">
   <a href="https://aasheeshmahammad.github.io"><img src="https://img.shields.io/badge/Website-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/aasheesh-mahammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Aasheesh_Mahammad/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:moghalaasheesh@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/AasheeshMahammad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
